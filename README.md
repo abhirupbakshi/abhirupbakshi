@@ -1,7 +1,6 @@
 
 ## 🌐 Socials:
 ![LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/abhirup-bakshi-39221a244/) 
-<a href="https://abhirupbakshi.github.io/">Portfolio</a>
 
  I'm a Java Backend developer with proficiency in SQL. I possess a keen interest in Data Structures and Algorithms and I'm enthusiastic about exploring new technologies. I'm also Interested in developing scalable and efficient applications using modern software development practices. 
 
